@@ -1,0 +1,21 @@
+{
+  "name": "anephew.brackets-zeal",
+  "title": "Zeal integration for Brackets",
+  "description": "Look for the word under the current cursor or any selected text in Zeal (offline API documentation browser).",
+  "homepage": "https://github.com/anephew/brackets-zeal",
+  "version": "1.0.0",
+  "author": "anephew",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.43"
+  },
+  "keywords": [
+    "search",
+    "docs",
+    "api",
+    "zeal",
+    "offline",
+    "browser",
+    "dash"
+  ]
+}
