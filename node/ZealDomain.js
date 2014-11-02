@@ -2,7 +2,7 @@
  * Zeal domain
  *
  * @package Zeal
- * @version 1.0.0
+ * @version 1.0.1
  * @copyright © 2014 anephew, http://github.com/anephew
  * @license http://opensource.org/licenses/MIT The MIT License (MIT)
  *
