@@ -23,7 +23,7 @@
    * @param {String} str string
    */
   function cmdZealSearch(str) {
-    child_process.exec("zeal --query '" + str + "'", function (error, stdout, stderr) {
+    child_process.exec("zeal --query " + str, function (error, stdout, stderr) {
       console.log('stdout: ' + stdout);
       console.log('stderr: ' + stderr);
       if (error !== null) {
