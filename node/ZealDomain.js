@@ -2,7 +2,7 @@
  * Zeal domain
  *
  * @package Zeal
- * @version 1.0.1
+ * @version 1.0.2
  * @copyright © 2014 anephew, http://github.com/anephew
  * @license http://opensource.org/licenses/MIT The MIT License (MIT)
  *
@@ -23,7 +23,7 @@
    * @param {String} str string
    */
   function cmdZealSearch(str) {
-    child_process.exec("zeal --query '" + str + "'", function (error, stdout, stderr) {
+    child_process.exec("zeal --query " + str, function (error, stdout, stderr) {
       console.log('stdout: ' + stdout);
       console.log('stderr: ' + stderr);
       if (error !== null) {
