@@ -7,7 +7,8 @@
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar).
 * Search for **"Zeal integration for Brackets"** and click the **Install** button.
-* **Windows users**: [Add](https://www.google.com/search?q=How+to+set+the+path+and+environment+variables+in+Windows) Zeal installation directory to the system "PATH" environment variable.
+* Download and install **the latest version** from [Zeal website](https://zealdocs.org).
+* [Add](https://www.google.com/search?q=How+to+set+the+path+and+environment+variables+in+Windows) Zeal installation directory to the system "PATH" environment variable.
 
 
 #### How To Use
@@ -19,7 +20,8 @@
 
 
 #### Roadmap
-- *Language mapping settings*.
+- Support for <code>dash-plugin</code> URL scheme.
+- Language mapping settings.
 
 
 #### Changelog
